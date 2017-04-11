@@ -1,0 +1,14 @@
+{
+  "name": "simple-jwt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "'zp1996'",
+  "license": "ISC",
+  "devDependencies": {
+    "jsonwebtoken": "^7.3.0"
+  }
+}
